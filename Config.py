@@ -1,0 +1,10 @@
+rs = 42 #(Random state)
+stem = "p" #(porter stemmer)
+min_df = 5
+ng_low = 1
+ng_high = 3
+test_size = 0.2
+text_col = "review"
+input_path = "Input"
+output_path = "Output"
+label_col = "Sentiment"
