@@ -3,8 +3,10 @@
 ## Aim
 To understand the basic text preprocessing and build a classification model.
 
-## Tech Stack Used
-Python, NLP: TF-IDF Vectorizer, N-grams,Bag Of Words, Binary Bag of Words
+### Bag of Words models
+- TF-IDF, 
+- N-grams, 
+- Binary Bag of Words
 
 ## Approach
 
